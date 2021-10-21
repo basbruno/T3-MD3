@@ -1,6 +1,6 @@
 Dado('que eu esteja na pagina de login do Qa.Coders') do
   login.load
-  sleep(10)
+  sleep(5)
   #login.validate_page
   login.click_button_login
 end

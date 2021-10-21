@@ -14,7 +14,7 @@ class Login < SitePrism::Page
     def login_user
         
         ipt_email.set "bruno_bas@outlook.com"
-        ipt_pass.set "M@n0l036"
+        ipt_pass.set "xxxxxxxxx"
     end
 
     def click_button_enter
